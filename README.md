@@ -5,7 +5,7 @@ Project developed during Objected Oriented Programming classes with @Krymu.
 "The project goal is to implement a game imitating a sea battle, 
 which resembles the classical Battleship game, but with several important modifications."
 
-"
+
 Evaluation criteria:
 D1) proper use of inheritance (pay attention to where it should be used, and where to use delegation)
 D2) abstract classes and interfaces (polymorphism, S.O.L.I.D.)
@@ -31,4 +31,4 @@ I9) use of algorithms available in the standard library
 I10) use of facilities of C++11 standard or higher
 I11) place the application classes in their own namespaces
 I12) enforce the use of exceptions for operations on streams, ensure closing the stream
-"
+
